@@ -1,2 +1,2 @@
-# Landing_Page
+# Landing-Page
   Simple Landing Page
