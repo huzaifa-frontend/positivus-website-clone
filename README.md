@@ -1,2 +1,2 @@
 # Landing_Page
- SMIT Landing Page Test
+  Simple Landing Page
